@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://firmware.meizu.com/Firmware/Flyme/M6T/7.8.9.18/cn_beta/20181106125111/2fa1f658/update.zip
-  ROM_NAME: Flyme
+  ROM_URL: https://bigota.d.miui.com/V10.2.1.0.MHOCNXM/miui_HMNote3Pro_V10.2.1.0.MHOCNXM_57ca0aa257_6.0.zip
+  ROM_NAME: MIUI
   BUILD_TYPE: ab
   TZ: Asia/Shanghai
 
